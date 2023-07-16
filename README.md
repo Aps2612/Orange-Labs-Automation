@@ -1,4 +1,4 @@
-# Orange Labs Automation
+# Puppeteer Automation Script for https://swap.defillama.com
 
 This repository contains a Puppeteer automation script that performs specific tasks on the "https://swap.defillama.com" website. The script utilizes Puppeteer, a Node.js library, to automate browser actions such as navigation, form filling, and interaction with elements on the webpage.
 
